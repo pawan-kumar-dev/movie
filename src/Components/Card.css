@@ -9,6 +9,7 @@
   align-items: flex-end;
   transition: 0.4s ease-out;
   box-shadow: 0px 7px 10px rgba(black, 0.5);
+  margin: 20px;
 }
 .card:hover {
   transform: translateY(20px);
@@ -42,7 +43,7 @@
   opacity: 1;
   transform: translateY(0px);
 }
-h1 {
+h2 {
   margin: 0px;
 }
 p {
@@ -50,7 +51,7 @@ p {
   font-size: 15px;
   margin-top: 8px;
 }
-button {
+.info button {
   padding: 0.6rem;
   outline: none;
   border: none;
